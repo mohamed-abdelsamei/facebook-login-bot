@@ -1,0 +1,19 @@
+{
+  "name": "facebook-login-bot",
+  "version": "1.0.0",
+  "description": "facebook login bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamedessam89/facebook-login-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohamedessam89/facebook-login-bot/issues"
+  },
+  "homepage": "https://github.com/mohamedessam89/facebook-login-bot#readme"
+}
